@@ -34,5 +34,5 @@ my goal in what little time I had left and got a working bare bones idea of what
 wanted to work but in a webapp. Although, I deffenitly want to understand how to make an
 interactive web app from scratch though, that would be really cool.
 
-The license this program uses is the recommended MIT license which can be found in the LICENSE
-file.
+The license this program uses is the recommended MIT license which can be found in the
+[LICENSE](LICENSE.txt) file.
